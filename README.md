@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="img/foto.png">
+<img src="img/foto_final.png">
 
 <!--
 **curiousmockingbird/curiousmockingbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
