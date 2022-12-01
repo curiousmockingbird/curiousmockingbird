@@ -1,6 +1,5 @@
-               Hi there 👋
-<img src="img/foto_final.png">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousmockingbird&theme=radical)
 <!--
 **curiousmockingbird/curiousmockingbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
