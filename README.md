@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning how to learn any skill I feel passionate about.
 - 👯 I’m looking to collaborate with other designers and Full-stack developers.
 - 💬 Ask me about about why 2 + 2 can also equals 5.
-- 📫 How to reach me:
+- 📫 How to reach me:<br></br>
  [<img alt="LinkedIn Logo" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/haroldmesa93/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have an identical twin.
