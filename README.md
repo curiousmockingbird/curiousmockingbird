@@ -1,7 +1,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousmockingbird&theme=radical)
 
 ### Connect with me: 
-- 🔭 I’m currently looking for a Full-stack developer position.
 - 🌱 I’m currently learning how to learn any skill I feel passionate about.
 - 👯 I’m looking to collaborate with other designers and Full-stack developers.
 - 💬 Ask me about about why 2 + 2 can also equals 5.
