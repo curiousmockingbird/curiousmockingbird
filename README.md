@@ -1,9 +1,7 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousmockingbird&theme=radical)
 
 ### Connect with me: 
 - 🌱 I’m currently learning how to learn any skill I feel passionate about.
 - 👯 I’m looking to collaborate with other designers and Full-stack developers.
-- 💬 Ask me about about why 2 + 2 can also equals 5.
 - 📫 How to reach me:<br></br>
  [<img alt="LinkedIn Logo" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/haroldmesa93/)
 - 😄 Pronouns: He/Him
@@ -26,4 +24,3 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousmockingbird&layout=compact)](https://github.com/curiousmockingbird/github-readme-stats)
