@@ -34,13 +34,6 @@ Hello, I'm Harold Mesa, a passionate Full-Stack, Javascript Developer with a fla
 - Git
 - Design Thinking
 
-### 🌟 Featured Projects
-- **Project Name 1**: [GitHub Repo](Link) - A brief description of the project.
-- **Project Name 2**: [GitHub Repo](Link) - A brief description of the project.
-
-### 📚 Open Source Contributions
-- Contributed to [Open Source Project Name](GitHub Link) - Brief description of contribution.
-
 ### 📸 More About Me
 Beyond coding, I enjoy capturing life's moments through poetry and cultivating my knowledge through reading. I believe that creativity and technology go hand in hand, and I bring this perspective into everything I do.
 
