@@ -1,6 +1,6 @@
 
 ### 🌟 React Developer
-Hello, I'm Harold Mesa, a passionate Full-Stack, Javascript Developer with a flair for creating engaging and user-friendly designs. With experience in both front-end and back-end technologies, I am committed to building attractive and efficient applications. I thrive in collaborative environments, and I'm always eager to learn new technologies and methodologies.
+Hello, I'm Harold Mesa, a Full-Stack, Javascript Developer with a flair for creating engaging and user-friendly designs. With experience in both front-end and back-end technologies, I am committed to building attractive and efficient applications. I thrive in collaborative environments, and I'm always eager to learn new technologies and methodologies.
 
 ### 🤝 Connect with Me
 - 🌱 **Currently Learning**: I'm deepening my knowledge in advanced JavaScript concepts and exploring the latest trends in web development.
