@@ -34,11 +34,17 @@ Hello, I'm Harold Mesa, a passionate Full-Stack, Javascript Developer with a fla
 - Git
 - Design Thinking
 
+
+### 📈 Web Development Blogging (Hashnode)
+
+<!-- Article 1 -->
+**[Choosing the right path: the MERN stack](https://harold-mesa.hashnode.dev/choosing-the-right-path-the-mern-stack)**  
+*Date Published: Aug 7*  
+Comparing React-based frameworks and stacks: the MERN stack
+<!-- Article 2 -->
+**[Choosing the Right Path: A Guide to React-based Frameworks](https://harold-mesa.hashnode.dev/choosing-the-right-path-a-guide-to-react-based-frameworks)**  
+*Date Published: Jul 29*  
+My first article on Hashnode!
+
 ### 📸 More About Me
 Beyond coding, I enjoy capturing life's moments through poetry and cultivating my knowledge through reading. I believe that creativity and technology go hand in hand, and I bring this perspective into everything I do.
-
-### 📈 GitHub Activity
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousmockingbird&show_icons=true)
-
-
