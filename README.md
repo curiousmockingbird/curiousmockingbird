@@ -1,26 +1,51 @@
 
-### Connect with me: 
-- 🌱 I’m currently learning how to learn any skill I feel passionate about.
-- 👯 I’m looking to collaborate with other designers and Full-stack developers.
-- 📫 How to reach me:<br></br>
- [<img alt="LinkedIn Logo" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/haroldmesa93/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have an identical twin.
+### 🌟 React Developer
+Hello, I'm Harold Mesa, a passionate Full-Stack, Javascript Developer with a flair for creating engaging and user-friendly designs. With experience in both front-end and back-end technologies, I am committed to building attractive and efficient applications. I thrive in collaborative environments, and I'm always eager to learn new technologies and methodologies.
 
-### Languages:
+### 🤝 Connect with Me
+- 🌱 **Currently Learning**: I'm deepening my knowledge in advanced JavaScript concepts and exploring the latest trends in web development.
+- ⚡ **Looking to Collaborate**: Eager to join forces with designers and developers on innovative web applications, especially those created with Next.js.
+- 📫 **Reach Me Here**: 
+   - LinkedIn: [Harold Mesa](https://www.linkedin.com/in/haroldmesa93/)
+   <!-- - Email: [harold@example.com](mailto:harold@example.com) -->
+- 😄 **Pronouns**: He/Him
+- 👯 **Fun Fact**: I'm an identical twin
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<br></br>
+### 💻 Languages and Technologies
+**Frontend**: 
+- JavaScript (Advanced)
+- TypeScript (Advanced)
+- Tailwind CSS (Advanced)
+- JSX (Experienced)
 
-### Tools, Frameworks & Libraries:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<br></br>
+**Backend**:
+- Node.js (Experienced)
+
+**Database**:
+- MongoDB (Advanced)
+- MySQL (Intermediate)
+
+### 💻 Frameworks
+- Next.js
+- Remix
+- Gatsby
+
+**Tools, Frameworks & Methodologies**:
+- Git
+- Design Thinking
+
+### 🌟 Featured Projects
+- **Project Name 1**: [GitHub Repo](Link) - A brief description of the project.
+- **Project Name 2**: [GitHub Repo](Link) - A brief description of the project.
+
+### 📚 Open Source Contributions
+- Contributed to [Open Source Project Name](GitHub Link) - Brief description of contribution.
+
+### 📸 More About Me
+Beyond coding, I enjoy capturing life's moments through poetry and cultivating my knowledge through reading. I believe that creativity and technology go hand in hand, and I bring this perspective into everything I do.
+
+### 📈 GitHub Activity
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousmockingbird&show_icons=true)
+
 
