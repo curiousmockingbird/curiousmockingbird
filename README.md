@@ -1,6 +1,8 @@
 
 ### 🌟 React Developer
-Hello, I'm Harold Mesa, a Full-Stack, Javascript Developer with a flair for creating engaging and user-friendly designs. With experience in both front-end and back-end technologies, I am committed to building attractive and efficient applications. I thrive in collaborative environments, and I'm always eager to learn new technologies and methodologies.
+I am Harold Mesa, full-stack developer specializing in JavaScript, with a passion for crafting intuitive, high-performance web applications. Currently, I work with Wisconsin's leading grassroots immigrant rights organization, Voces de la Frontera, where I build and maintain digital solutions that empower communities and drive social change.
+
+With a strong foundation in JavaScript, React, and Node.js, I bring ideas to life through scalable, responsive, and accessible web experiences. My expertise extends to the MEARN stack, serverless architecture, WordPress, and Git, allowing me to build dynamic and adaptable solutions for a variety of needs.
 
 ### 🤝 Connect with Me
 - 🌱 **Currently Learning**: I'm deepening my knowledge in advanced JavaScript concepts and exploring the latest trends in web development.
