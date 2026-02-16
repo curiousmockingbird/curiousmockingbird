@@ -104,7 +104,6 @@ I currently serve as **Web Manager / Full-Stack Developer** for **Wisconsin’s 
 
 ---
 
-![Harold's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiousmockingbird&show_icons=true&hide_title=true&cache_seconds=1800)
+![Stats](https://github-readme-stats.vercel.app/api?username=curiousmockingbird&show_icons=true&hide_title=true&cache_seconds=1800&v=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousmockingbird&layout=compact&cache_seconds=1800)
 
