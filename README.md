@@ -45,9 +45,9 @@ I currently serve as **Web Manager / Full-Stack Developer** for **Wisconsin’s 
   https://haroldeveloper.tech/devProjects?project=vdlfa  
   *Role:* Built high-impact pages and web flows supporting organizing and rapid-response campaigns; improved maintainability and publishing workflows.
 
-- **Wisconsin for Safe Roads**  
-  https://www.haroldeveloper.tech/devProjects?project=sales-roads  
-  *Role:* Web build + enhancements supporting advocacy, signups, and campaign storytelling.
+- **Nombolo**  
+  https://www.haroldeveloper.tech/devProjects?project=nombolo  
+  *Role:* React Native intern building an app with a modern, performant stack and secure backend..
 
 ---
 
