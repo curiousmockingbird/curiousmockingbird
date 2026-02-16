@@ -1,52 +1,110 @@
+<h1 align="center">Harold Mesa</h1>
+<p align="center">
+  Full-Stack Developer • Web Manager (Nonprofit + Agency) • Designer-turned-Engineer
+</p>
 
-### 🌟 JavaScript & React Developer
-I am Harold Mesa, full-stack developer specializing in JavaScript, with a passion for crafting intuitive, high-performance web applications. Currently, I work with Wisconsin's leading grassroots immigrant rights organization, Voces de la Frontera, where I build and maintain digital solutions that empower communities and drive social change.
+<p align="center">
+  <a href="https://www.linkedin.com/in/haroldmesa93/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harold%20Mesa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://haroldeveloper.tech">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-haroldeveloper.tech-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img alt="Location" src="https://img.shields.io/badge/Cambridge%2C%20MA-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-With a strong foundation in JavaScript, React, and Node.js, I bring ideas to life through scalable, responsive, and accessible web experiences. My expertise extends to the MEARN stack, serverless architecture, WordPress, and Git, allowing me to build dynamic and adaptable solutions for a variety of needs.
+---
 
-### 🤝 Connect with Me
-- 🌱 **Currently Learning**: I'm deepening my knowledge in advanced JavaScript concepts and exploring the latest trends in web development.
-- ⚡ **Looking to Collaborate**: Eager to join forces with designers and developers on innovative web applications, especially those created with Next.js.
-- 📫 **Reach Me Here**: 
-   - LinkedIn: [Harold Mesa](https://www.linkedin.com/in/haroldmesa93/)
-   <!-- - Email: [harold@example.com](mailto:harold@example.com) -->
-- 😄 **Pronouns**: He/Him
-- 👯 **Fun Fact**: I'm an identical twin
+## 👋 About me
 
-### 💻 Languages and Technologies
-**Frontend**: 
-- JavaScript (Advanced)
-- TypeScript (Advanced)
-- Tailwind CSS (Advanced)
-- JSX (Experienced)
+I’m **Harold Mesa** — a full-stack developer with a strong visual/design background (**M.A. Integrated Design, Hochschule Anhalt**) and **Epicodus** training (1,000+ hours across OOP/FP + modern web stacks).  
 
-**Backend**:
-- Node.js (Experienced)
+I currently serve as **Web Manager / Full-Stack Developer** for **Wisconsin’s leading grassroots immigrant-rights organization, Voces de la Frontera**, building and maintaining mission-critical web systems: campaign landing pages, donation/signup flows, WordPress components and templates, analytics/SEO improvements, and reliability/performance upgrades. I also work in agency/startup contexts, so I’m comfortable shipping fast without sacrificing quality.
 
-**Database**:
-- MongoDB (Advanced)
-- MySQL (Intermediate)
+**What I care about:** accessible UX, performance, clean systems, and tech that supports real people.
 
-### 💻 Frameworks
-- Next.js
-- Remix
-- Gatsby
+---
 
-**Tools, Frameworks & Methodologies**:
-- Git
-- Design Thinking
+## 🧩 What I do (the short list)
 
+- **Full-stack delivery:** Next.js + TypeScript apps, serverless APIs, integrations
+- **WordPress engineering:** Gutenberg workflows, custom themes/templates (Sage/Bud.js), performance tuning
+- **Web operations:** CI/CD, environments (dev/stage/prod), troubleshooting, deployments
+- **Quality + governance:** accessibility (WCAG-minded), QA, scalable components/design systems
+- **Growth + insight:** GA4, SEO audits, content performance, conversion-first page building
 
-### 📈 Web Development Blogging (Hashnode)
+---
 
-<!-- Article 1 -->
-**[Choosing the right path: the MERN stack](https://harold-mesa.hashnode.dev/choosing-the-right-path-the-mern-stack)**  
-*Date Published: Aug 7*  
-Comparing React-based frameworks and stacks: the MERN stack
-<!-- Article 2 -->
-**[Choosing the Right Path: A Guide to React-based Frameworks](https://harold-mesa.hashnode.dev/choosing-the-right-path-a-guide-to-react-based-frameworks)**  
-*Date Published: Jul 29*  
-My first article on Hashnode!
+## 🚀 Featured work
 
-### 📸 More About Me
-Beyond coding, I enjoy capturing life's moments through poetry and cultivating my knowledge through reading. I believe that creativity and technology go hand in hand, and I bring this perspective into everything I do.
+- **Voces de la Frontera**  
+  https://haroldeveloper.tech/devProjects?project=vdlf  
+  *Role:* Full-stack development + ongoing WordPress improvements (templates/components, Gutenberg editing workflows, performance & reliability, integrations).
+
+- **Voces de la Frontera Action**  
+  https://haroldeveloper.tech/devProjects?project=vdlfa  
+  *Role:* Built high-impact pages and web flows supporting organizing and rapid-response campaigns; improved maintainability and publishing workflows.
+
+- **Wisconsin for Safe Roads**  
+  https://www.haroldeveloper.tech/devProjects?project=sales-roads  
+  *Role:* Web build + enhancements supporting advocacy, signups, and campaign storytelling.
+
+---
+
+## 🧰 Tech stack
+
+**Frontend**
+- TypeScript, JavaScript
+- React, Next.js
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Serverless (Vercel functions)
+
+**CMS / Platforms**
+- WordPress (Gutenberg)
+- WP Engine, Cloudways
+
+**Data / Storage**
+- MongoDB, MySQL
+
+**Ops / Tooling**
+- Git, CI/CD (CircleCI + Bitbucket)
+- Analytics (GA4), SEO tooling, performance monitoring
+
+**Design / UX (my “other half”)**
+- UI/UX, visual design, editorial design
+- Systems thinking + design thinking (I started in design and still build with that eye)
+
+---
+
+## ✍️ Writing
+
+- **Choosing the right path: the MERN stack**  
+  https://harold-mesa.hashnode.dev/choosing-the-right-path-the-mern-stack
+
+- **Choosing the Right Path: A Guide to React-based Frameworks**  
+  https://harold-mesa.hashnode.dev/choosing-the-right-path-a-guide-to-react-based-frameworks
+
+---
+
+## 🤝 Let’s connect / collaborate
+
+- I’m open to collaborating on **Next.js + TypeScript** products, especially projects that care about **impact, performance, and accessibility**.
+- LinkedIn: https://www.linkedin.com/in/haroldmesa93/  
+- Portfolio: https://haroldeveloper.tech
+
+---
+
+## ⚡ Fun facts
+
+- Identical twin (shoutout to Reinold).
+- Visual artist + developer — I love when code and composition meet.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=curiousmockingbird&show_icons=true&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousmockingbird&layout=compact" height="150" />
+</p>
