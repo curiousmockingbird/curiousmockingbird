@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/haroldmesa93/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harold%20Mesa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-haroldmesa93-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://haroldeveloper.tech">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-haroldeveloper.tech-111827?style=for-the-badge&logo=vercel&logoColor=white" />
