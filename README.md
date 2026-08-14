@@ -1,6 +1,7 @@
 <h1 align="center">Harold Mesa</h1>
+
 <p align="center">
-  Full-Stack Developer • Web Manager (Nonprofit + Agency) • Designer-turned-Engineer
+  Full-Stack Developer • Cybersecurity Professional in Training • Web & Security-Minded Technologist
 </p>
 
 <p align="center">
@@ -17,93 +18,198 @@
 
 ## 👋 About me
 
-I’m **Harold Mesa** — a full-stack developer with a strong visual/design background (**M.A. Integrated Design, Hochschule Anhalt**) and **Epicodus** training (1,000+ hours across OOP/FP + modern web stacks).  
+I’m **Harold Mesa** — a full-stack developer and web manager transitioning into **cybersecurity**, with a growing focus on **security operations, network security, and secure web infrastructure**.
 
-I currently serve as **Web Manager / Full-Stack Developer** for **Wisconsin’s leading grassroots immigrant-rights organization, Voces de la Frontera**, building and maintaining mission-critical web systems: campaign landing pages, donation/signup flows, WordPress components and templates, analytics/SEO improvements, and reliability/performance upgrades. I also work in agency/startup contexts, so I’m comfortable shipping fast without sacrificing quality.
+My background in building and maintaining websites, APIs, deployments, integrations, and nonprofit digital systems gives me a practical understanding of how applications are built, how systems interact, and where vulnerabilities can emerge.
 
-**What I care about:** accessible UX, performance, clean systems, and tech that supports real people.
+My professional experience includes managing and developing mission-critical digital infrastructure for **Voces de la Frontera**, Wisconsin’s leading grassroots immigrant-rights organization. My work included WordPress development, campaign and donation systems, APIs and integrations, analytics, SEO, accessibility, deployment workflows, performance optimization, and ongoing web operations.
+
+I’m now expanding that foundation through **cybersecurity training and industry certifications**, building broader, vendor-neutral knowledge across:
+
+- Threat detection and mitigation
+- Security operations
+- Network security
+- Identity and access management (IAM)
+- Incident response
+- Vulnerability management
+- Security architecture
+- Risk management and governance
+
+My goal is to combine my development experience with cybersecurity expertise to help organizations strengthen their security posture across **applications, infrastructure, data, and users**.
+
+I’m particularly interested in opportunities such as **SOC Analyst, Security Analyst, IAM Analyst, Junior Security Engineer, and GRC-focused roles**.
 
 ---
 
-## 🧩 What I do (the short list)
+## 🛡️ Cybersecurity focus
 
-- **Full-stack delivery:** Next.js + TypeScript apps, serverless APIs, integrations
+### Currently developing skills in
+
+- Security operations and incident response
+- Threat identification and mitigation
+- Network security and segmentation
+- Identity and access management (IAM)
+- Vulnerability assessment and remediation
+- SIEM and security monitoring
+- Secure architecture and system hardening
+- Risk management, governance, and compliance
+- Security principles across web applications and infrastructure
+
+### Certification path
+
+- **CompTIA Security+**
+- Cybersecurity training through **Per Scholas**
+
+My development background also gives me a security perspective on:
+
+- Web applications and APIs
+- Authentication and authorization
+- Input validation and common web vulnerabilities
+- Deployment pipelines
+- Cloud/serverless infrastructure
+- CMS security
+- Software dependencies
+- Data handling and access controls
+
+---
+
+## 🧩 Development experience
+
+- **Full-stack delivery:** Next.js + TypeScript applications, serverless APIs, integrations
 - **WordPress engineering:** Gutenberg workflows, custom themes/templates (Sage/Bud.js), performance tuning
-- **Web operations:** CI/CD, environments (dev/stage/prod), troubleshooting, deployments
-- **Quality + governance:** accessibility (WCAG-minded), QA, scalable components/design systems
-- **Growth + insight:** GA4, SEO audits, content performance, conversion-first page building
+- **Web operations:** CI/CD, dev/stage/prod environments, troubleshooting, deployments
+- **Quality + governance:** accessibility, QA, scalable components, design systems
+- **Growth + insight:** GA4, SEO audits, content performance, conversion-focused development
+- **Secure development mindset:** authentication, permissions, dependencies, API security, data handling
 
 ---
 
 ## 🚀 Featured work
 
-- **Voces de la Frontera**  
-  https://haroldeveloper.tech/devProjects?project=vdlf  
-  *Role:* Full-stack development + ongoing WordPress improvements (templates/components, Gutenberg editing workflows, performance & reliability, integrations).
+### Voces de la Frontera
+https://haroldeveloper.tech/devProjects?project=vdlf
 
-- **Voces de la Frontera Action**  
-  https://haroldeveloper.tech/devProjects?project=vdlfa  
-  *Role:* Built high-impact pages and web flows supporting organizing and rapid-response campaigns; improved maintainability and publishing workflows.
+**Role:** Full-stack development and web management across WordPress infrastructure, templates and components, publishing workflows, integrations, performance, reliability, and mission-critical digital systems.
 
-- **Nombolo**  
-  https://www.haroldeveloper.tech/devProjects?project=nombolo  
-  *Role:* React Native intern building an app with a modern, performant stack and secure backend..
+### Voces de la Frontera Action
+https://haroldeveloper.tech/devProjects?project=vdlfa
+
+**Role:** Developed high-impact pages and digital workflows supporting organizing and rapid-response campaigns while improving maintainability and publishing processes.
+
+### Nombolo
+https://www.haroldeveloper.tech/devProjects?project=nombolo
+
+**Role:** React Native developer intern contributing to a mobile application using a modern frontend stack and backend services.
 
 ---
 
-## 🧰 Tech stack
+## 🧰 Technical toolkit
 
-**Frontend**
-- TypeScript, JavaScript
-- React, Next.js
+### Cybersecurity
+
+- Security operations fundamentals
+- Network security
+- Threat and vulnerability analysis
+- Incident response
+- IAM concepts
+- Security architecture
+- Risk and governance
+- Secure web infrastructure
+
+### Frontend
+
+- TypeScript
+- JavaScript
+- React
+- Next.js
 - Tailwind CSS
 
-**Backend**
+### Backend
+
 - Node.js
-- Serverless (Vercel functions)
+- Serverless APIs
+- Vercel Functions
+- REST APIs
 
-**CMS / Platforms**
-- WordPress (Gutenberg)
-- WP Engine, Cloudways
+### CMS / Platforms
 
-**Data / Storage**
-- MongoDB, MySQL
+- WordPress
+- Gutenberg
+- WP Engine
+- Cloudways
 
-**Ops / Tooling**
-- Git, CI/CD (CircleCI + Bitbucket)
-- Analytics (GA4), SEO tooling, performance monitoring
+### Data / Storage
 
-**Design / UX (my “other half”)**
-- UI/UX, visual design, editorial design
-- Systems thinking + design thinking (I started in design and still build with that eye)
+- MongoDB
+- MySQL
+
+### Ops / Tooling
+
+- Git
+- CI/CD
+- CircleCI
+- Bitbucket
+- GA4
+- SEO tooling
+- Performance monitoring
+
+### Design / UX
+
+- UI/UX
+- Visual design
+- Editorial design
+- Design systems
+- Systems thinking
+- Design thinking
+
+I started my career in design, and I still bring that perspective to technical problem-solving: understanding systems, users, information, and how individual components interact as a whole.
 
 ---
 
 ## ✍️ Writing
 
-- **Choosing the right path: the MERN stack**  
-  https://harold-mesa.hashnode.dev/choosing-the-right-path-the-mern-stack
+### Choosing the right path: the MERN stack
+https://harold-mesa.hashnode.dev/choosing-the-right-path-the-mern-stack
 
-- **Choosing the Right Path: A Guide to React-based Frameworks**  
-  https://harold-mesa.hashnode.dev/choosing-the-right-path-a-guide-to-react-based-frameworks
+### Choosing the Right Path: A Guide to React-based Frameworks
+https://harold-mesa.hashnode.dev/choosing-the-right-path-a-guide-to-react-based-frameworks
 
 ---
 
-## 🤝 Let’s connect / collaborate
+## 🎯 Where I'm headed
 
-- I’m open to collaborating on **Next.js + TypeScript** products, especially projects that care about **impact, performance, and accessibility**.
-- LinkedIn: https://www.linkedin.com/in/haroldmesa93/  
+I’m building toward a career at the intersection of **software, infrastructure, and cybersecurity**.
+
+I’m particularly interested in:
+
+- Security Operations (SOC)
+- Cybersecurity Analysis
+- Identity & Access Management
+- Network Security
+- Application Security
+- Vulnerability Management
+- Governance, Risk & Compliance
+- Junior Security Engineering
+
+My long-term goal is to use my experience understanding how digital products are **designed, built, deployed, and maintained** to better understand how they can be **secured**.
+
+---
+
+## 🤝 Let’s connect
+
+I’m interested in connecting with cybersecurity professionals, security teams, developers, and organizations working at the intersection of **technology, security, and social impact**.
+
+- LinkedIn: https://www.linkedin.com/in/haroldmesa93/
 - Portfolio: https://haroldeveloper.tech
 
 ---
 
 ## ⚡ Fun facts
 
-- Identical twin (shoutout to Reinold).
-- Visual artist + developer — I love when code and composition meet.
+- Identical twin — shoutout to Reinold.
+- Visual artist + developer.
+- I’m fascinated by the intersection between how systems are **built** and how they are **protected**.
 
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=curiousmockingbird&show_icons=true&hide_title=true&cache_seconds=1800&v=1)
-
-
